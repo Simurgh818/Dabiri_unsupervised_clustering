@@ -1,7 +1,7 @@
-# Principal Component Analysis clustering of a Heart failiur dataset.
+# Principal Component Analysis clustering of a Heart failure dataset.
 
 
-The heart failiur dataset from this article:
+The heart failure dataset from this article:
 [Chicco, D., Jurman, G. Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Med Inform Decis Mak 20, 16 (2020).](https://doi.org/10.1186/s12911-020-1023-5).
 
  
