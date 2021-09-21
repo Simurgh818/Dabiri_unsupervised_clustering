@@ -1,8 +1,8 @@
 # Principal Component Analysis clustering of a Heart failure dataset.
 
 
-The heart failure dataset from this article:
-[Chicco, D., Jurman, G. Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Med Inform Decis Mak 20, 16 (2020).](https://doi.org/10.1186/s12911-020-1023-5).
+The heart failure dataset used in this repo is from 
+[Chicco, D., Jurman, G. Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Med Inform Decis Mak 20, 16 (2020)] (https://doi.org/10.1186/s12911-020-1023-5).
 
  
 ## Installation instructions:
@@ -11,7 +11,7 @@ git clone https://github.com/Simurgh818/Dabiri_unsupervised_clustering.git
 ```
 
 ### Requirements
-This script was developed on a Windows machine with 7 core processor and 16 GB RAM. Although it is not a computationally heavy script and it ran fine on BMI cluster with 1 CPU core and 2 GB RAM.
+This script was developed on a Windows machine with 7 core processor and 16 GB RAM. Although it is not a computationally heavy script.
 
 ## Description of scripts:
 Once installed, the user can open the jupyter notebook called UnsupervisedClustering.ipynb to run the clustering. 
