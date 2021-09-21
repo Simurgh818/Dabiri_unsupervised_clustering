@@ -19,7 +19,7 @@ Once installed, the user can open the jupyter notebook called UnsupervisedCluste
 
 ## Results
 
-Below table shows comparison of performance of our model with popular and publicly available OCR engine like Tesseract and Google API as baseline, all of which are trained on the dataset described in the study:
+Below scatter plot shows the scatter plot of the two classes of Alive and Dead on their PC1 and PC2:
 
 ![Results](PCA_of_Heart_dataset.jpg)
 
