@@ -1,7 +1,7 @@
-# Principal Component Analysis clustering of a Heart failiur dataset.
+# Principal Component Analysis clustering of a Heart failure dataset.
 
 
-The heart failiur dataset from this article:
+The heart failure dataset from this article:
 [Chicco, D., Jurman, G. Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Med Inform Decis Mak 20, 16 (2020).](https://doi.org/10.1186/s12911-020-1023-5).
 
  
@@ -19,7 +19,7 @@ Once installed, the user can open the jupyter notebook called UnsupervisedCluste
 
 ## Results
 
-Below table shows comparison of performance of our model with popular and publicly available OCR engine like Tesseract and Google API as baseline, all of which are trained on the dataset described in the study:
+Below scatter plot shows the scatter plot of the two classes of Alive and Dead on their PC1 and PC2:
 
 ![Results](PCA_of_Heart_dataset.jpg)
 
