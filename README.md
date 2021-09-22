@@ -11,7 +11,7 @@ git clone https://github.com/Simurgh818/Dabiri_unsupervised_clustering.git
 ```
 
 ### Requirements
-This script was developed on a Windows machine with 7 core processor and 16 GB RAM. Although it is not a computationally heavy script.
+This script was developed on a Windows machine with 7 core processor and 16 GB RAM. Although it is not a computationally heavy script and it ran fine on BMI cluster with 1 CPU core and 2 GB RAM.
 
 ## Description of scripts:
 Once installed, the user can open the jupyter notebook called UnsupervisedClustering.ipynb to run the clustering. 
